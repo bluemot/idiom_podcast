@@ -25,15 +25,14 @@
 
     <item>
       <title>EP1 — To Add Fuel to the Fire (火上澆油)</title>
-      <link>https://bluemot.github.io/idiom_podcast/episodes/episode-001.html</link>
+      <link>https://bluemot.github.io/idiom_podcast/</link>
       <guid isPermaLink="false">episode-001-add-fuel-to-the-fire</guid>
-      <pubDate>Sun, 05 Jul 2026 23:00:00 +0800</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 +0000</pubDate>
       <description>美國250歲國慶、布魯克林大橋煙火起火、川普國慶演說激化對立、伊朗葬禮高喊復仇——這週的新聞完美詮釋了什麼叫「火上澆油」。中英雙語，學成語也懂時事。</description>
       <itunes:summary>美國250歲國慶、布魯克林大橋煙火起火、川普國慶演說激化對立、伊朗葬禮高喊復仇——這週的新聞完美詮釋了什麼叫「火上澆油」。中英雙語，學成語也懂時事。</description>
-      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:duration>06:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://bluemot.github.io/idiom_podcast/episodes/episode-001-add-fuel-to-the-fire-zh-v4.mp3" length="2442528" type="audio/mpeg"/>
-      <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
     </item>
   </channel>
 </rss>
