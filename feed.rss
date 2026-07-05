@@ -12,7 +12,7 @@
     <itunes:category text="Education">
       <itunes:category text="Language Courses"/>
     </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
     <image>
       <url>https://bluemot.github.io/idiom_podcast/podcast-cover.jpg</url>
@@ -33,7 +33,7 @@
       <itunes:summary>美國250歲國慶、布魯克林大橋煙火起火、川普國慶演說激化對立、伊朗葬禮高喊復仇。這週的新聞完美詮釋了什麼叫「火上澆油」。中英雙語，學成語也懂時事。</itunes:summary>
       <itunes:subtitle>EP1 - 火上澆油：美國250歲國慶特輯</itunes:subtitle>
       <itunes:duration>06:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://bluemot.github.io/idiom_podcast/episodes/episode-001-add-fuel-to-the-fire-zh-v4.mp3" length="2442528" type="audio/mpeg"/>
       <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
     </item>
