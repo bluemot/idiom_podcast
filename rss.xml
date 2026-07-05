@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>英文成語週記 English Idiom Weekly</title>
+    <link>https://bluemot.github.io/idiom_podcast/</link>
+    <language>zh-tw</language>
+    <description>每週一個英文成語，結合時事新聞，中英雙語解說。跟著 Helen 一起學道地英文用法、典故由來，還有中文成語對比。</description>
+    <itunes:author>Helen</itunes:author>
+    <itunes:summary>每週一個英文成語，結合時事新聞，中英雙語解說。跟著 Helen 一起學道地英文用法、典故由來，還有中文成語對比。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education">
+      <itunes:category text="Language Courses"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
+    <image>
+      <url>https://bluemot.github.io/idiom_podcast/podcast-cover.jpg</url>
+      <title>英文成語週記 English Idiom Weekly</title>
+      <link>https://bluemot.github.io/idiom_podcast/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Helen</itunes:name>
+      <itunes:email>bluemot@example.com</itunes:email>
+    </itunes:owner>
+
+    <item>
+      <title>EP1 — To Add Fuel to the Fire (火上澆油)</title>
+      <link>https://bluemot.github.io/idiom_podcast/episodes/episode-001.html</link>
+      <guid isPermaLink="false">episode-001-add-fuel-to-the-fire</guid>
+      <pubDate>Sun, 05 Jul 2026 23:00:00 +0800</pubDate>
+      <description>美國250歲國慶、布魯克林大橋煙火起火、川普國慶演說激化對立、伊朗葬禮高喊復仇——這週的新聞完美詮釋了什麼叫「火上澆油」。中英雙語，學成語也懂時事。</description>
+      <itunes:summary>美國250歲國慶、布魯克林大橋煙火起火、川普國慶演說激化對立、伊朗葬禮高喊復仇——這週的新聞完美詮釋了什麼叫「火上澆油」。中英雙語，學成語也懂時事。</description>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://bluemot.github.io/idiom_podcast/episodes/episode-001-add-fuel-to-the-fire-zh-v4.mp3" length="2442528" type="audio/mpeg"/>
+      <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
+    </item>
+  </channel>
+</rss>
