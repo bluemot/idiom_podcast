@@ -25,6 +25,20 @@
     </itunes:owner>
 
     <item>
+      <title>EP2 - A House of Cards (不堪一擊)</title>
+      <link>https://bluemot.github.io/idiom_podcast/</link>
+      <guid isPermaLink="false">episode-002-house-of-cards</guid>
+      <pubDate>Mon, 13 Jul 2026 15:00:00 +0000</pubDate>
+      <description>川普說要接管荷姆茲海峽，結果不到48小時美伊停火協議就破了。他的強硬姿態就像紙牌屋——看起來很威，一碰就倒。本集學 a house of cards 的正確用法，還有中文成語「不堪一擊」。</description>
+      <itunes:summary>川普說要接管荷姆茲海峽，結果不到48小時美伊停火協議就破了。他的強硬姿態就像紙牌屋——看起來很威，一碰就倒。本集學 a house of cards 的正確用法，還有中文成語「不堪一擊」。</itunes:summary>
+      <itunes:subtitle>EP2 - 紙牌屋：川普的荷姆茲海峽宣言</itunes:subtitle>
+      <itunes:duration>06:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://bluemot.github.io/idiom_podcast/episodes/episode-002-house-of-cards.mp3" length="2350224" type="audio/mpeg"/>
+      <itunes:image href="https://bluemot.github.io/idiom_podcast/podcast-cover.jpg"/>
+    </item>
+
+    <item>
       <title>EP1 - To Add Fuel to the Fire (火上澆油)</title>
       <link>https://bluemot.github.io/idiom_podcast/</link>
       <guid isPermaLink="false">episode-001-add-fuel-to-the-fire</guid>
